@@ -1,0 +1,22 @@
+Quartus II Archive log --	C:/altera/13.0sp1/projects/CYC2_LED/top_tmp_archive.qarlog
+
+Archive:	C:/altera/13.0sp1/projects/CYC2_LED/top_tmp_archive.qar
+Date:		Tue Jun 09 07:16:21 2020
+Quartus II 64-Bit		13.0.1 Build 232 06/12/2013 SP 1 SJ Web Edition
+
+	=========== Files Selected: ===========
+C:/altera/13.0sp1/projects/CYC2_LED/incremental_db/compiled_partitions/top.db_info
+C:/altera/13.0sp1/projects/CYC2_LED/top.qpf
+C:/altera/13.0sp1/projects/CYC2_LED/top.qsf
+C:/altera/13.0sp1/projects/CYC2_LED/top.v
+c:/altera/13.0sp1/quartus/bin64/assignment_defaults.qdf
+	======= Total: 5 files to archive =======
+
+	================ Status: ===============
+All files archived successfully.
+
+
+******* Archived project restoration attempt on Tue Jun 09 07:16:23 2020
+Source archive file:	C:/altera/13.0sp1/projects/CYC2_LED/top_tmp_archive.qar
+Archive was extracted into	C:/altera/13.0sp1/projects/CYC2_FX2LP_LED/
+		 - successfully.

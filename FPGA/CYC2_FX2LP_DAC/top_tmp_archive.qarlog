@@ -1,0 +1,67 @@
+Quartus II Archive log --	C:/altera/13.0sp1/projects/CYC2_FX2LP_DAC/top_tmp_archive.qarlog
+
+Archive:	C:/altera/13.0sp1/projects/CYC2_FX2LP_DAC/top_tmp_archive.qar
+Date:		Tue Jun 09 08:49:10 2020
+Quartus II 64-Bit		13.0.1 Build 232 06/12/2013 SP 1 SJ Web Edition
+
+	=========== Files Selected: ===========
+C:/altera/13.0sp1/projects/CYC2_FX2LP_DAC/QsysCore.cmp
+C:/altera/13.0sp1/projects/CYC2_FX2LP_DAC/QsysCore.qsys
+C:/altera/13.0sp1/projects/CYC2_FX2LP_DAC/QsysCore.sopcinfo
+C:/altera/13.0sp1/projects/CYC2_FX2LP_DAC/QsysCore/synthesis/QsysCore.qip
+C:/altera/13.0sp1/projects/CYC2_FX2LP_DAC/QsysCore/synthesis/QsysCore.v
+C:/altera/13.0sp1/projects/CYC2_FX2LP_DAC/QsysCore/synthesis/submodules/QsysCore_addr_router.sv
+C:/altera/13.0sp1/projects/CYC2_FX2LP_DAC/QsysCore/synthesis/submodules/QsysCore_cmd_xbar_demux.sv
+C:/altera/13.0sp1/projects/CYC2_FX2LP_DAC/QsysCore/synthesis/submodules/QsysCore_id_router.sv
+C:/altera/13.0sp1/projects/CYC2_FX2LP_DAC/QsysCore/synthesis/submodules/QsysCore_pio_0.v
+C:/altera/13.0sp1/projects/CYC2_FX2LP_DAC/QsysCore/synthesis/submodules/QsysCore_rsp_xbar_demux.sv
+C:/altera/13.0sp1/projects/CYC2_FX2LP_DAC/QsysCore/synthesis/submodules/QsysCore_rsp_xbar_mux.sv
+C:/altera/13.0sp1/projects/CYC2_FX2LP_DAC/QsysCore/synthesis/submodules/SPISlaveToAvalonMasterBridge.v
+C:/altera/13.0sp1/projects/CYC2_FX2LP_DAC/QsysCore/synthesis/submodules/altera_avalon_packets_to_master.v
+C:/altera/13.0sp1/projects/CYC2_FX2LP_DAC/QsysCore/synthesis/submodules/altera_avalon_packets_to_master_inst_for_spichain.v
+C:/altera/13.0sp1/projects/CYC2_FX2LP_DAC/QsysCore/synthesis/submodules/altera_avalon_sc_fifo.v
+C:/altera/13.0sp1/projects/CYC2_FX2LP_DAC/QsysCore/synthesis/submodules/altera_avalon_st_bytes_to_packets.v
+C:/altera/13.0sp1/projects/CYC2_FX2LP_DAC/QsysCore/synthesis/submodules/altera_avalon_st_bytes_to_packets_inst_for_spichain.v
+C:/altera/13.0sp1/projects/CYC2_FX2LP_DAC/QsysCore/synthesis/submodules/altera_avalon_st_packets_to_bytes.v
+C:/altera/13.0sp1/projects/CYC2_FX2LP_DAC/QsysCore/synthesis/submodules/altera_avalon_st_packets_to_bytes_inst_for_spichain.v
+C:/altera/13.0sp1/projects/CYC2_FX2LP_DAC/QsysCore/synthesis/submodules/altera_avalon_st_pipeline_base.v
+C:/altera/13.0sp1/projects/CYC2_FX2LP_DAC/QsysCore/synthesis/submodules/altera_merlin_arbitrator.sv
+C:/altera/13.0sp1/projects/CYC2_FX2LP_DAC/QsysCore/synthesis/submodules/altera_merlin_burst_uncompressor.sv
+C:/altera/13.0sp1/projects/CYC2_FX2LP_DAC/QsysCore/synthesis/submodules/altera_merlin_master_agent.sv
+C:/altera/13.0sp1/projects/CYC2_FX2LP_DAC/QsysCore/synthesis/submodules/altera_merlin_master_translator.sv
+C:/altera/13.0sp1/projects/CYC2_FX2LP_DAC/QsysCore/synthesis/submodules/altera_merlin_slave_agent.sv
+C:/altera/13.0sp1/projects/CYC2_FX2LP_DAC/QsysCore/synthesis/submodules/altera_merlin_slave_translator.sv
+C:/altera/13.0sp1/projects/CYC2_FX2LP_DAC/QsysCore/synthesis/submodules/altera_merlin_traffic_limiter.sv
+C:/altera/13.0sp1/projects/CYC2_FX2LP_DAC/QsysCore/synthesis/submodules/altera_reset_controller.sdc
+C:/altera/13.0sp1/projects/CYC2_FX2LP_DAC/QsysCore/synthesis/submodules/altera_reset_controller.v
+C:/altera/13.0sp1/projects/CYC2_FX2LP_DAC/QsysCore/synthesis/submodules/altera_reset_synchronizer.v
+C:/altera/13.0sp1/projects/CYC2_FX2LP_DAC/QsysCore/synthesis/submodules/channel_adapter_btop_for_spichain.v
+C:/altera/13.0sp1/projects/CYC2_FX2LP_DAC/QsysCore/synthesis/submodules/channel_adapter_ptob_for_spichain.v
+C:/altera/13.0sp1/projects/CYC2_FX2LP_DAC/QsysCore/synthesis/submodules/spiphyslave.sdc
+C:/altera/13.0sp1/projects/CYC2_FX2LP_DAC/QsysCore/synthesis/submodules/spiphyslave.v
+C:/altera/13.0sp1/projects/CYC2_FX2LP_DAC/QsysCore/synthesis/submodules/spislave_inst_for_spichain.v
+C:/altera/13.0sp1/projects/CYC2_FX2LP_DAC/assignment_defaults.qdf
+C:/altera/13.0sp1/projects/CYC2_FX2LP_DAC/incremental_db/compiled_partitions/top.db_info
+C:/altera/13.0sp1/projects/CYC2_FX2LP_DAC/pll.ppf
+C:/altera/13.0sp1/projects/CYC2_FX2LP_DAC/pll.qip
+C:/altera/13.0sp1/projects/CYC2_FX2LP_DAC/pll.v
+C:/altera/13.0sp1/projects/CYC2_FX2LP_DAC/pll40m.ppf
+C:/altera/13.0sp1/projects/CYC2_FX2LP_DAC/pll40m.qip
+C:/altera/13.0sp1/projects/CYC2_FX2LP_DAC/pll40m.v
+C:/altera/13.0sp1/projects/CYC2_FX2LP_DAC/pll40m_bb.v
+C:/altera/13.0sp1/projects/CYC2_FX2LP_DAC/pll40m_inst.v
+C:/altera/13.0sp1/projects/CYC2_FX2LP_DAC/pll_bb.v
+C:/altera/13.0sp1/projects/CYC2_FX2LP_DAC/pll_inst.v
+C:/altera/13.0sp1/projects/CYC2_FX2LP_DAC/top.qpf
+C:/altera/13.0sp1/projects/CYC2_FX2LP_DAC/top.qsf
+C:/altera/13.0sp1/projects/CYC2_FX2LP_DAC/top.v
+	======= Total: 50 files to archive =======
+
+	================ Status: ===============
+All files archived successfully.
+
+
+******* Archived project restoration attempt on Tue Jun 09 08:49:13 2020
+Source archive file:	C:/altera/13.0sp1/projects/CYC2_FX2LP_DAC/top_tmp_archive.qar
+Archive was extracted into	C:/altera/13.0sp1/projects/CYC2_FX2LP_ADC/
+		 - successfully.

@@ -1,0 +1,45 @@
+Quartus II Archive log --	C:/altera/13.0sp1/projects/CYC2_FX2LP_LED/top_tmp_archive.qarlog
+
+Archive:	C:/altera/13.0sp1/projects/CYC2_FX2LP_LED/top_tmp_archive.qar
+Date:		Tue Jun 09 07:34:27 2020
+Quartus II 64-Bit		13.0.1 Build 232 06/12/2013 SP 1 SJ Web Edition
+
+	=========== Files Selected: ===========
+C:/altera/13.0sp1/projects/CYC2_FX2LP_LED/QsysCore.cmp
+C:/altera/13.0sp1/projects/CYC2_FX2LP_LED/QsysCore.qsys
+C:/altera/13.0sp1/projects/CYC2_FX2LP_LED/QsysCore.sopcinfo
+C:/altera/13.0sp1/projects/CYC2_FX2LP_LED/QsysCore/synthesis/QsysCore.qip
+C:/altera/13.0sp1/projects/CYC2_FX2LP_LED/QsysCore/synthesis/QsysCore.v
+C:/altera/13.0sp1/projects/CYC2_FX2LP_LED/QsysCore/synthesis/submodules/QsysCore_pio_0.v
+C:/altera/13.0sp1/projects/CYC2_FX2LP_LED/QsysCore/synthesis/submodules/SPISlaveToAvalonMasterBridge.v
+C:/altera/13.0sp1/projects/CYC2_FX2LP_LED/QsysCore/synthesis/submodules/altera_avalon_packets_to_master.v
+C:/altera/13.0sp1/projects/CYC2_FX2LP_LED/QsysCore/synthesis/submodules/altera_avalon_packets_to_master_inst_for_spichain.v
+C:/altera/13.0sp1/projects/CYC2_FX2LP_LED/QsysCore/synthesis/submodules/altera_avalon_st_bytes_to_packets.v
+C:/altera/13.0sp1/projects/CYC2_FX2LP_LED/QsysCore/synthesis/submodules/altera_avalon_st_bytes_to_packets_inst_for_spichain.v
+C:/altera/13.0sp1/projects/CYC2_FX2LP_LED/QsysCore/synthesis/submodules/altera_avalon_st_packets_to_bytes.v
+C:/altera/13.0sp1/projects/CYC2_FX2LP_LED/QsysCore/synthesis/submodules/altera_avalon_st_packets_to_bytes_inst_for_spichain.v
+C:/altera/13.0sp1/projects/CYC2_FX2LP_LED/QsysCore/synthesis/submodules/altera_merlin_master_translator.sv
+C:/altera/13.0sp1/projects/CYC2_FX2LP_LED/QsysCore/synthesis/submodules/altera_merlin_slave_translator.sv
+C:/altera/13.0sp1/projects/CYC2_FX2LP_LED/QsysCore/synthesis/submodules/altera_reset_controller.sdc
+C:/altera/13.0sp1/projects/CYC2_FX2LP_LED/QsysCore/synthesis/submodules/altera_reset_controller.v
+C:/altera/13.0sp1/projects/CYC2_FX2LP_LED/QsysCore/synthesis/submodules/altera_reset_synchronizer.v
+C:/altera/13.0sp1/projects/CYC2_FX2LP_LED/QsysCore/synthesis/submodules/channel_adapter_btop_for_spichain.v
+C:/altera/13.0sp1/projects/CYC2_FX2LP_LED/QsysCore/synthesis/submodules/channel_adapter_ptob_for_spichain.v
+C:/altera/13.0sp1/projects/CYC2_FX2LP_LED/QsysCore/synthesis/submodules/spiphyslave.sdc
+C:/altera/13.0sp1/projects/CYC2_FX2LP_LED/QsysCore/synthesis/submodules/spiphyslave.v
+C:/altera/13.0sp1/projects/CYC2_FX2LP_LED/QsysCore/synthesis/submodules/spislave_inst_for_spichain.v
+C:/altera/13.0sp1/projects/CYC2_FX2LP_LED/assignment_defaults.qdf
+C:/altera/13.0sp1/projects/CYC2_FX2LP_LED/incremental_db/compiled_partitions/top.db_info
+C:/altera/13.0sp1/projects/CYC2_FX2LP_LED/top.qpf
+C:/altera/13.0sp1/projects/CYC2_FX2LP_LED/top.qsf
+C:/altera/13.0sp1/projects/CYC2_FX2LP_LED/top.v
+	======= Total: 28 files to archive =======
+
+	================ Status: ===============
+All files archived successfully.
+
+
+******* Archived project restoration attempt on Tue Jun 09 07:34:29 2020
+Source archive file:	C:/altera/13.0sp1/projects/CYC2_FX2LP_LED/top_tmp_archive.qar
+Archive was extracted into	C:/altera/13.0sp1/projects/CYC2_FX2LP_DAC/
+		 - successfully.
